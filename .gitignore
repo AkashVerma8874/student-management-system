@@ -1,0 +1,24 @@
+﻿# Node Modules
+node_modules/
+
+# React Build Folder
+dist/
+
+# Java Build Folder
+target/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
